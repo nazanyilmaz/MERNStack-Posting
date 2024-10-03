@@ -7,7 +7,7 @@
 - - Frontend: React-Redux-Thunk, React-Router, Tailwind CSS,
 - - Backend: MongoDB, Express, Node.js
 - - API Requests:Axios
-    Other Libraries: bcryptjs, dotenv, jsonwebtoken, mongoose,modemon, cors,bodyparser,react-icons, react-toastify
+- - Other Libraries: bcryptjs, dotenv, jsonwebtoken, mongoose,modemon, cors,bodyparser,react-icons, react-toastify
 
 `To run the Server: type 'npm start'` 
 
